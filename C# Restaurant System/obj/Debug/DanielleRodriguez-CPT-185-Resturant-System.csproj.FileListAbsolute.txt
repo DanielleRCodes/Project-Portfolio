@@ -1,0 +1,137 @@
+C:\Users\ddrodriguez21\Desktop\Danielle Rodriguez C#\DanielleRodriguez-CPT-185-Resturant-System\bin\Debug\DanielleRodriguez-CPT-185-Resturant-System.exe.config
+C:\Users\ddrodriguez21\Desktop\Danielle Rodriguez C#\DanielleRodriguez-CPT-185-Resturant-System\bin\Debug\DanielleRodriguez-CPT-185-Resturant-System.exe
+C:\Users\ddrodriguez21\Desktop\Danielle Rodriguez C#\DanielleRodriguez-CPT-185-Resturant-System\bin\Debug\DanielleRodriguez-CPT-185-Resturant-System.pdb
+C:\Users\ddrodriguez21\Desktop\Danielle Rodriguez C#\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez-CPT-185-Resturant-System.csprojAssemblyReference.cache
+C:\Users\ddrodriguez21\Desktop\Danielle Rodriguez C#\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez_CPT_185_Resturant_System.Properties.Resources.resources
+C:\Users\ddrodriguez21\Desktop\Danielle Rodriguez C#\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez-CPT-185-Resturant-System.csproj.GenerateResource.cache
+C:\Users\ddrodriguez21\Desktop\Danielle Rodriguez C#\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez-CPT-185-Resturant-System.csproj.CoreCompileInputs.cache
+C:\Users\ddrodriguez21\Desktop\Danielle Rodriguez C#\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez-CPT-185-Resturant-System.exe
+C:\Users\ddrodriguez21\Desktop\Danielle Rodriguez C#\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez-CPT-185-Resturant-System.pdb
+C:\Users\ddrodriguez21\Desktop\Danielle Rodriguez C#\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez_CPT_185_Resturant_System.formDashboard.resources
+C:\Users\ddrodriguez21\Desktop\Danielle Rodriguez C#\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez_CPT_185_Resturant_System.formOrders.resources
+C:\Users\ddrodriguez21\Desktop\Danielle Rodriguez C#\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez_CPT_185_Resturant_System.MenuItemControl.resources
+G:\CPT-185\DanielleRodriguez-CPT-185-Resturant-System\bin\Debug\DanielleRodriguez-CPT-185-Resturant-System.exe.config
+G:\CPT-185\DanielleRodriguez-CPT-185-Resturant-System\bin\Debug\DanielleRodriguez-CPT-185-Resturant-System.exe
+G:\CPT-185\DanielleRodriguez-CPT-185-Resturant-System\bin\Debug\DanielleRodriguez-CPT-185-Resturant-System.pdb
+G:\CPT-185\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez-CPT-185-Resturant-System.csproj.AssemblyReference.cache
+G:\CPT-185\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez_CPT_185_Resturant_System.formDashboard.resources
+G:\CPT-185\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez_CPT_185_Resturant_System.formMainConsole.resources
+G:\CPT-185\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez_CPT_185_Resturant_System.formOrders.resources
+G:\CPT-185\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez_CPT_185_Resturant_System.MenuItemControl.resources
+G:\CPT-185\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez_CPT_185_Resturant_System.Properties.Resources.resources
+G:\CPT-185\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez-CPT-185-Resturant-System.csproj.GenerateResource.cache
+G:\CPT-185\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez-CPT-185-Resturant-System.csproj.CoreCompileInputs.cache
+G:\CPT-185\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez-CPT-185-Resturant-System.exe
+G:\CPT-185\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez-CPT-185-Resturant-System.pdb
+G:\CPT-185\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez_CPT_185_Resturant_System.formEmployee.resources
+G:\CPT-185\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez_CPT_185_Resturant_System.formMenuItems.resources
+G:\CPT-185\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez_CPT_185_Resturant_System.formAnalytics.resources
+C:\Users\ddrodriguez21\Desktop\DanielleRodriguez-CPT-185-Resturant-System\bin\Debug\DanielleRodriguez-CPT-185-Resturant-System.exe.config
+C:\Users\ddrodriguez21\Desktop\DanielleRodriguez-CPT-185-Resturant-System\bin\Debug\DanielleRodriguez-CPT-185-Resturant-System.exe
+C:\Users\ddrodriguez21\Desktop\DanielleRodriguez-CPT-185-Resturant-System\bin\Debug\DanielleRodriguez-CPT-185-Resturant-System.pdb
+C:\Users\ddrodriguez21\Desktop\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez_CPT_185_Resturant_System.formDashboard.resources
+C:\Users\ddrodriguez21\Desktop\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez_CPT_185_Resturant_System.formEmployee.resources
+C:\Users\ddrodriguez21\Desktop\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez_CPT_185_Resturant_System.formMainConsole.resources
+C:\Users\ddrodriguez21\Desktop\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez_CPT_185_Resturant_System.formMenuItems.resources
+C:\Users\ddrodriguez21\Desktop\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez_CPT_185_Resturant_System.formOrders.resources
+C:\Users\ddrodriguez21\Desktop\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez_CPT_185_Resturant_System.MenuItemControl.resources
+C:\Users\ddrodriguez21\Desktop\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez_CPT_185_Resturant_System.Properties.Resources.resources
+C:\Users\ddrodriguez21\Desktop\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez-CPT-185-Resturant-System.csproj.GenerateResource.cache
+C:\Users\ddrodriguez21\Desktop\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez-CPT-185-Resturant-System.csproj.CoreCompileInputs.cache
+C:\Users\ddrodriguez21\Desktop\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez-CPT-185-Resturant-System.exe
+C:\Users\ddrodriguez21\Desktop\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez-CPT-185-Resturant-System.pdb
+C:\Users\ddrodriguez21\Desktop\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez_CPT_185_Resturant_System.orderedItemControl.resources
+G:\Final Project\Project\DanielleRodriguez-CPT-185-Resturant-System\bin\Debug\DanielleRodriguez-CPT-185-Resturant-System.exe.config
+G:\Final Project\Project\DanielleRodriguez-CPT-185-Resturant-System\bin\Debug\DanielleRodriguez-CPT-185-Resturant-System.exe
+G:\Final Project\Project\DanielleRodriguez-CPT-185-Resturant-System\bin\Debug\DanielleRodriguez-CPT-185-Resturant-System.pdb
+G:\Final Project\Project\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez-CPT-185-Resturant-System.csproj.AssemblyReference.cache
+G:\Final Project\Project\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez_CPT_185_Resturant_System.formAnalytics.resources
+G:\Final Project\Project\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez_CPT_185_Resturant_System.formDashboard.resources
+G:\Final Project\Project\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez_CPT_185_Resturant_System.formEmployee.resources
+G:\Final Project\Project\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez_CPT_185_Resturant_System.formMainConsole.resources
+G:\Final Project\Project\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez_CPT_185_Resturant_System.formMenuItems.resources
+G:\Final Project\Project\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez_CPT_185_Resturant_System.formOrders.resources
+G:\Final Project\Project\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez_CPT_185_Resturant_System.MenuItemControl.resources
+G:\Final Project\Project\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez_CPT_185_Resturant_System.orderedItemControl.resources
+G:\Final Project\Project\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez_CPT_185_Resturant_System.Properties.Resources.resources
+G:\Final Project\Project\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez-CPT-185-Resturant-System.csproj.GenerateResource.cache
+G:\Final Project\Project\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez-CPT-185-Resturant-System.csproj.CoreCompileInputs.cache
+G:\Final Project\Project\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez-CPT-185-Resturant-System.exe
+G:\Final Project\Project\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez-CPT-185-Resturant-System.pdb
+C:\Users\ddrodriguez21\Desktop\Project\DanielleRodriguez-CPT-185-Resturant-System\bin\Debug\DanielleRodriguez-CPT-185-Resturant-System.exe.config
+C:\Users\ddrodriguez21\Desktop\Project\DanielleRodriguez-CPT-185-Resturant-System\bin\Debug\DanielleRodriguez-CPT-185-Resturant-System.exe
+C:\Users\ddrodriguez21\Desktop\Project\DanielleRodriguez-CPT-185-Resturant-System\bin\Debug\DanielleRodriguez-CPT-185-Resturant-System.pdb
+C:\Users\ddrodriguez21\Desktop\Project\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez-CPT-185-Resturant-System.csprojAssemblyReference.cache
+C:\Users\ddrodriguez21\Desktop\Project\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez_CPT_185_Resturant_System.formAnalytics.resources
+C:\Users\ddrodriguez21\Desktop\Project\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez_CPT_185_Resturant_System.formDashboard.resources
+C:\Users\ddrodriguez21\Desktop\Project\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez_CPT_185_Resturant_System.formEmployee.resources
+C:\Users\ddrodriguez21\Desktop\Project\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez_CPT_185_Resturant_System.formMainConsole.resources
+C:\Users\ddrodriguez21\Desktop\Project\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez_CPT_185_Resturant_System.formMenuItems.resources
+C:\Users\ddrodriguez21\Desktop\Project\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez_CPT_185_Resturant_System.formOrders.resources
+C:\Users\ddrodriguez21\Desktop\Project\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez_CPT_185_Resturant_System.MenuItemControl.resources
+C:\Users\ddrodriguez21\Desktop\Project\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez_CPT_185_Resturant_System.orderedItemControl.resources
+C:\Users\ddrodriguez21\Desktop\Project\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez_CPT_185_Resturant_System.Properties.Resources.resources
+C:\Users\ddrodriguez21\Desktop\Project\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez-CPT-185-Resturant-System.csproj.GenerateResource.cache
+C:\Users\ddrodriguez21\Desktop\Project\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez-CPT-185-Resturant-System.csproj.CoreCompileInputs.cache
+C:\Users\ddrodriguez21\Desktop\Project\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez-CPT-185-Resturant-System.exe
+C:\Users\ddrodriguez21\Desktop\Project\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez-CPT-185-Resturant-System.pdb
+C:\Users\ddrodriguez21\Desktop\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez-CPT-185-Resturant-System.csprojAssemblyReference.cache
+C:\Users\ddrodriguez21\Desktop\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez_CPT_185_Resturant_System.employeeControl.resources
+C:\Users\ddrodriguez21\Desktop\DanielleRodriguez-CPT-185-Resturant-System\bin\Debug\Rising Sun Sushi Database.accdb
+C:\Users\ddrodriguez21\Desktop\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez_CPT_185_Resturant_System.formRemoveEmp.resources
+C:\Users\ddrodriguez21\Desktop\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez_CPT_185_Resturant_System.formEditEmp.resources
+C:\Users\ddrodriguez21\Desktop\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez_CPT_185_Resturant_System.formAddEmp.resources
+C:\Users\ddrodriguez21\Desktop\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez_CPT_185_Resturant_System.formViewOrders.resources
+C:\Users\ddrodriguez21\Desktop\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez_CPT_185_Resturant_System.openOrderControl.resources
+C:\Users\ddrodriguez21\Desktop\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez_CPT_185_Resturant_System.empShiftControl.resources
+C:\Users\ddrodriguez21\Desktop\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez_CPT_185_Resturant_System.specialsControl.resources
+G:\Final Project\DanielleRodriguez-CPT-185-Resturant-System\bin\Debug\Rising Sun Sushi Database.accdb
+G:\Final Project\DanielleRodriguez-CPT-185-Resturant-System\bin\Debug\DanielleRodriguez-CPT-185-Resturant-System.exe.config
+G:\Final Project\DanielleRodriguez-CPT-185-Resturant-System\bin\Debug\DanielleRodriguez-CPT-185-Resturant-System.exe
+G:\Final Project\DanielleRodriguez-CPT-185-Resturant-System\bin\Debug\DanielleRodriguez-CPT-185-Resturant-System.pdb
+G:\Final Project\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez-CPT-185-Resturant-System.csproj.AssemblyReference.cache
+G:\Final Project\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez_CPT_185_Resturant_System.employeeControl.resources
+G:\Final Project\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez_CPT_185_Resturant_System.empShiftControl.resources
+G:\Final Project\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez_CPT_185_Resturant_System.formAddEmp.resources
+G:\Final Project\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez_CPT_185_Resturant_System.formDashboard.resources
+G:\Final Project\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez_CPT_185_Resturant_System.formEditEmp.resources
+G:\Final Project\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez_CPT_185_Resturant_System.formEmployee.resources
+G:\Final Project\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez_CPT_185_Resturant_System.formMainConsole.resources
+G:\Final Project\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez_CPT_185_Resturant_System.formMenuItems.resources
+G:\Final Project\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez_CPT_185_Resturant_System.formOrders.resources
+G:\Final Project\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez_CPT_185_Resturant_System.formRemoveEmp.resources
+G:\Final Project\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez_CPT_185_Resturant_System.formViewOrders.resources
+G:\Final Project\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez_CPT_185_Resturant_System.menuItemControl.resources
+G:\Final Project\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez_CPT_185_Resturant_System.openOrderControl.resources
+G:\Final Project\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez_CPT_185_Resturant_System.orderedItemControl.resources
+G:\Final Project\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez_CPT_185_Resturant_System.Properties.Resources.resources
+G:\Final Project\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez_CPT_185_Resturant_System.specialsControl.resources
+G:\Final Project\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez-CPT-185-Resturant-System.csproj.GenerateResource.cache
+G:\Final Project\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez-CPT-185-Resturant-System.csproj.CoreCompileInputs.cache
+G:\Final Project\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez-CPT-185-Resturant-System.exe
+G:\Final Project\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez-CPT-185-Resturant-System.pdb
+C:\Users\Danielle\Desktop\School\CPT-185\Final Project\DanielleRodriguez-CPT-185-Resturant-System\bin\Debug\Rising Sun Sushi Database.accdb
+C:\Users\Danielle\Desktop\School\CPT-185\Final Project\DanielleRodriguez-CPT-185-Resturant-System\bin\Debug\DanielleRodriguez-CPT-185-Resturant-System.exe.config
+C:\Users\Danielle\Desktop\School\CPT-185\Final Project\DanielleRodriguez-CPT-185-Resturant-System\bin\Debug\DanielleRodriguez-CPT-185-Resturant-System.exe
+C:\Users\Danielle\Desktop\School\CPT-185\Final Project\DanielleRodriguez-CPT-185-Resturant-System\bin\Debug\DanielleRodriguez-CPT-185-Resturant-System.pdb
+C:\Users\Danielle\Desktop\School\CPT-185\Final Project\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez-CPT-185-Resturant-System.csproj.AssemblyReference.cache
+C:\Users\Danielle\Desktop\School\CPT-185\Final Project\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez_CPT_185_Resturant_System.employeeControl.resources
+C:\Users\Danielle\Desktop\School\CPT-185\Final Project\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez_CPT_185_Resturant_System.empShiftControl.resources
+C:\Users\Danielle\Desktop\School\CPT-185\Final Project\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez_CPT_185_Resturant_System.formAddEmp.resources
+C:\Users\Danielle\Desktop\School\CPT-185\Final Project\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez_CPT_185_Resturant_System.formDashboard.resources
+C:\Users\Danielle\Desktop\School\CPT-185\Final Project\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez_CPT_185_Resturant_System.formEditEmp.resources
+C:\Users\Danielle\Desktop\School\CPT-185\Final Project\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez_CPT_185_Resturant_System.formEmployee.resources
+C:\Users\Danielle\Desktop\School\CPT-185\Final Project\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez_CPT_185_Resturant_System.formMainConsole.resources
+C:\Users\Danielle\Desktop\School\CPT-185\Final Project\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez_CPT_185_Resturant_System.formMenuItems.resources
+C:\Users\Danielle\Desktop\School\CPT-185\Final Project\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez_CPT_185_Resturant_System.formOrders.resources
+C:\Users\Danielle\Desktop\School\CPT-185\Final Project\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez_CPT_185_Resturant_System.formRemoveEmp.resources
+C:\Users\Danielle\Desktop\School\CPT-185\Final Project\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez_CPT_185_Resturant_System.formViewOrders.resources
+C:\Users\Danielle\Desktop\School\CPT-185\Final Project\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez_CPT_185_Resturant_System.menuItemControl.resources
+C:\Users\Danielle\Desktop\School\CPT-185\Final Project\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez_CPT_185_Resturant_System.openOrderControl.resources
+C:\Users\Danielle\Desktop\School\CPT-185\Final Project\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez_CPT_185_Resturant_System.orderedItemControl.resources
+C:\Users\Danielle\Desktop\School\CPT-185\Final Project\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez_CPT_185_Resturant_System.Properties.Resources.resources
+C:\Users\Danielle\Desktop\School\CPT-185\Final Project\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez_CPT_185_Resturant_System.specialsControl.resources
+C:\Users\Danielle\Desktop\School\CPT-185\Final Project\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez-CPT-185-Resturant-System.csproj.GenerateResource.cache
+C:\Users\Danielle\Desktop\School\CPT-185\Final Project\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez-CPT-185-Resturant-System.csproj.CoreCompileInputs.cache
+C:\Users\Danielle\Desktop\School\CPT-185\Final Project\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez-CPT-185-Resturant-System.exe
+C:\Users\Danielle\Desktop\School\CPT-185\Final Project\DanielleRodriguez-CPT-185-Resturant-System\obj\Debug\DanielleRodriguez-CPT-185-Resturant-System.pdb

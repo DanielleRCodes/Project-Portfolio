@@ -1,0 +1,230 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{3608CD10-A50A-459A-9AD4-E8FF91304D2C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>DanielleRodriguez_CPT_185_Resturant_System</RootNamespace>
+    <AssemblyName>DanielleRodriguez-CPT-185-Resturant-System</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="employeeControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="employeeControl.Designer.cs">
+      <DependentUpon>employeeControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="empShiftControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="empShiftControl.Designer.cs">
+      <DependentUpon>empShiftControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formAddEmp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formAddEmp.Designer.cs">
+      <DependentUpon>formAddEmp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formDashboard.Designer.cs">
+      <DependentUpon>formDashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formEditEmp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formEditEmp.Designer.cs">
+      <DependentUpon>formEditEmp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formEmployee.Designer.cs">
+      <DependentUpon>formEmployee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formMainConsole.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formMainConsole.Designer.cs">
+      <DependentUpon>formMainConsole.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formMenuItems.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formMenuItems.Designer.cs">
+      <DependentUpon>formMenuItems.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formOrders.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formOrders.Designer.cs">
+      <DependentUpon>formOrders.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formRemoveEmp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formRemoveEmp.Designer.cs">
+      <DependentUpon>formRemoveEmp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formViewOrders.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formViewOrders.Designer.cs">
+      <DependentUpon>formViewOrders.cs</DependentUpon>
+    </Compile>
+    <Compile Include="menuItemControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="menuItemControl.Designer.cs">
+      <DependentUpon>menuItemControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="openOrderControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="openOrderControl.Designer.cs">
+      <DependentUpon>openOrderControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="orderedItemControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="orderedItemControl.Designer.cs">
+      <DependentUpon>orderedItemControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Rising_Sun_Sushi_DatabaseDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Rising_Sun_Sushi_DatabaseDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="specialsControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="specialsControl.Designer.cs">
+      <DependentUpon>specialsControl.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="employeeControl.resx">
+      <DependentUpon>employeeControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="empShiftControl.resx">
+      <DependentUpon>empShiftControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formAddEmp.resx">
+      <DependentUpon>formAddEmp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formDashboard.resx">
+      <DependentUpon>formDashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formEditEmp.resx">
+      <DependentUpon>formEditEmp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formEmployee.resx">
+      <DependentUpon>formEmployee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formMainConsole.resx">
+      <DependentUpon>formMainConsole.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formMenuItems.resx">
+      <DependentUpon>formMenuItems.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formOrders.resx">
+      <DependentUpon>formOrders.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formRemoveEmp.resx">
+      <DependentUpon>formRemoveEmp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formViewOrders.resx">
+      <DependentUpon>formViewOrders.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="menuItemControl.resx">
+      <DependentUpon>menuItemControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="openOrderControl.resx">
+      <DependentUpon>openOrderControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="orderedItemControl.resx">
+      <DependentUpon>orderedItemControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="specialsControl.resx">
+      <DependentUpon>specialsControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="Rising_Sun_Sushi_DatabaseDataSet.xsc">
+      <DependentUpon>Rising_Sun_Sushi_DatabaseDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Rising_Sun_Sushi_DatabaseDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Rising_Sun_Sushi_DatabaseDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Rising_Sun_Sushi_DatabaseDataSet.xss">
+      <DependentUpon>Rising_Sun_Sushi_DatabaseDataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Rising Sun Sushi Database.accdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
